@@ -9,6 +9,6 @@ entries:
     name: public-api
     type: application
     urls:
-    - charts/public-api-0.1.0.tgz
+    - https://Ana3Lu.github.io/helm-charts-public-api/charts/public-api-0.1.0.tgz
     version: 0.1.0
 generated: "2025-02-24T06:13:06.386179027Z"
