@@ -3,12 +3,12 @@ entries:
   public-api:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-24T15:32:24.518928248Z"
+    created: "2025-02-24T23:28:35.781411943Z"
     description: Chart for public-api deployment
-    digest: 35a4f2ba952da7d436db3c9607cba36af9c755affd986baff0a10fabb5cac9e8
+    digest: edfa2e943ab8e53bc462a379c0148b5c3163091905814b62481c5d084401455d
     name: public-api
     type: application
     urls:
     - https://Ana3Lu.github.io/helm-charts-public-api/charts/public-api-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-24T15:32:24.518345161Z"
+generated: "2025-02-24T23:28:35.780883264Z"
