@@ -3,12 +3,12 @@ entries:
   public-api:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-24T06:05:21.073663988Z"
+    created: "2025-02-24T06:13:06.386712558Z"
     description: Chart for public-api deployment
-    digest: ec7f2fe2632d260ba3d1d1bbb34cc4b37171c34d307004861b8304aed088a790
+    digest: 2923e6f51daafc2edadcaa09cc433bd81bf425e8d4ad2cc0d58991ba2a9f71c1
     name: public-api
     type: application
     urls:
     - charts/public-api-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-24T06:05:21.07286684Z"
+generated: "2025-02-24T06:13:06.386179027Z"
